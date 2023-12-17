@@ -1,3 +1,3 @@
-this is my first line
-this is my second line
-this is probability 1
+i am learning github 
+now i am doing practical on it
+i am at master file
